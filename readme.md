@@ -49,7 +49,7 @@ Jalankan aplikasi dengan perintah:
 python3 main.py
 ```
 ## Struktur Proyek
-instagram-story-viewer/
+```instagram-story-viewer/
 │
 ├── app/
 │   ├── services/
@@ -70,6 +70,7 @@ instagram-story-viewer/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
 ## Peringatan
 
 Penggunaan alat otomatis pada Instagram dapat melanggar Ketentuan Layanan mereka. Gunakan dengan bijak dan atas risiko Anda sendiri.
